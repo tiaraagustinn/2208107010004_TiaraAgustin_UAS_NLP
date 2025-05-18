@@ -1,0 +1,3 @@
+"C:\Users\HP VICTUS\Documents\CMake\bin\cmake.exe" -E rm -f CMakeFiles\whisper-server.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\whisper-server.dir/objects.a @CMakeFiles\whisper-server.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\whisper-server.dir/objects.a -Wl,--no-whole-archive -o ..\..\bin\whisper-server.exe -Wl,--out-implib,libwhisper-server.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\whisper-server.dir\linkLibs.rsp

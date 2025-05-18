@@ -1,0 +1,3 @@
+"C:\Users\HP VICTUS\Documents\CMake\bin\cmake.exe" -E rm -f CMakeFiles\whisper-cli.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\whisper-cli.dir/objects.a @CMakeFiles\whisper-cli.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\whisper-cli.dir/objects.a -Wl,--no-whole-archive -o ..\..\bin\whisper-cli.exe -Wl,--out-implib,libwhisper-cli.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\whisper-cli.dir\linkLibs.rsp

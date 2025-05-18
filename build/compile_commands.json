@@ -1,0 +1,206 @@
+[
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGGML_SCHED_MAX_COPIES=4 -D_CRT_SECURE_NO_WARNINGS -D_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_C.rsp -g -std=gnu11 -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -o CMakeFiles\\ggml-base.dir\\ggml.c.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml.c",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml.c",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml.c.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGGML_SCHED_MAX_COPIES=4 -D_CRT_SECURE_NO_WARNINGS -D_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_C.rsp -g -std=gnu11 -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -o CMakeFiles\\ggml-base.dir\\ggml-alloc.c.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-alloc.c",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-alloc.c",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-alloc.c.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_SCHED_MAX_COPIES=4 -D_CRT_SECURE_NO_WARNINGS -D_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_CXX.rsp -g -std=gnu++1z -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -o CMakeFiles\\ggml-base.dir\\ggml-backend.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-backend.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-backend.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-backend.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_SCHED_MAX_COPIES=4 -D_CRT_SECURE_NO_WARNINGS -D_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_CXX.rsp -g -std=gnu++1z -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -o CMakeFiles\\ggml-base.dir\\ggml-opt.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-opt.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-opt.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-opt.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_SCHED_MAX_COPIES=4 -D_CRT_SECURE_NO_WARNINGS -D_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_CXX.rsp -g -std=gnu++1z -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -o CMakeFiles\\ggml-base.dir\\ggml-threading.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-threading.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-threading.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-threading.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGGML_SCHED_MAX_COPIES=4 -D_CRT_SECURE_NO_WARNINGS -D_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_C.rsp -g -std=gnu11 -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -o CMakeFiles\\ggml-base.dir\\ggml-quants.c.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-quants.c",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-quants.c",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-quants.c.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_SCHED_MAX_COPIES=4 -D_CRT_SECURE_NO_WARNINGS -D_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_CXX.rsp -g -std=gnu++1z -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -o CMakeFiles\\ggml-base.dir\\gguf.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\gguf.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/gguf.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/gguf.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_C.rsp -g -std=gnu11 -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -march=native -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ggml-cpu.c.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-cpu\\ggml-cpu.c",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.c",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -g -std=gnu++1z -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -march=native -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ggml-cpu.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-cpu\\ggml-cpu.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -g -std=gnu++1z -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -march=native -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ggml-cpu-aarch64.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-cpu\\ggml-cpu-aarch64.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-aarch64.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-aarch64.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -g -std=gnu++1z -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -march=native -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ggml-cpu-hbm.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-cpu\\ggml-cpu-hbm.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-hbm.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-hbm.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_C.rsp -g -std=gnu11 -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -march=native -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ggml-cpu-quants.c.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-cpu\\ggml-cpu-quants.c",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-quants.c",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-quants.c.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -g -std=gnu++1z -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -march=native -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ggml-cpu-traits.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-cpu\\ggml-cpu-traits.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-traits.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-traits.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -g -std=gnu++1z -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -march=native -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\amx\\amx.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-cpu\\amx\\amx.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-cpu/amx/amx.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -g -std=gnu++1z -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -march=native -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\amx\\mmq.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-cpu\\amx\\mmq.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-cpu/amx/mmq.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -g -std=gnu++1z -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -march=native -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\binary-ops.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-cpu\\binary-ops.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-cpu/binary-ops.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -g -std=gnu++1z -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -march=native -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\unary-ops.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-cpu\\unary-ops.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-cpu/unary-ops.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/unary-ops.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -g -std=gnu++1z -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -march=native -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\vec.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-cpu\\vec.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-cpu/vec.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/vec.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_AARCH64 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -g -std=gnu++1z -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -march=native -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ops.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-cpu\\ops.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-cpu/ops.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ops.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x602 -D_XOPEN_SOURCE=600 @CMakeFiles/ggml.dir/includes_CXX.rsp -g -std=gnu++1z -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -o CMakeFiles\\ggml.dir\\ggml-backend-reg.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\ggml\\src\\ggml-backend-reg.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/ggml/src/ggml-backend-reg.cpp",
+  "output": "ggml/src/CMakeFiles/ggml.dir/ggml-backend-reg.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_USE_CPU -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/whisper.dir/includes_CXX.rsp -g -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -o CMakeFiles\\whisper.dir\\whisper.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\src\\whisper.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/src/whisper.cpp",
+  "output": "src/CMakeFiles/whisper.dir/whisper.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/tests",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/test-vad.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\test-vad.dir\\test-vad.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\tests\\test-vad.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/tests/test-vad.cpp",
+  "output": "tests/CMakeFiles/test-vad.dir/test-vad.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/tests",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/test-vad-full.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\test-vad-full.dir\\test-vad-full.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\tests\\test-vad-full.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/tests/test-vad-full.cpp",
+  "output": "tests/CMakeFiles/test-vad-full.dir/test-vad-full.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_USE_CPU @CMakeFiles/common.dir/includes_CXX.rsp -g -o CMakeFiles\\common.dir\\common.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\examples\\common.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/examples/common.cpp",
+  "output": "examples/CMakeFiles/common.dir/common.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_USE_CPU @CMakeFiles/common.dir/includes_CXX.rsp -g -o CMakeFiles\\common.dir\\common-ggml.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\examples\\common-ggml.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/examples/common-ggml.cpp",
+  "output": "examples/CMakeFiles/common.dir/common-ggml.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_USE_CPU @CMakeFiles/common.dir/includes_CXX.rsp -g -o CMakeFiles\\common.dir\\common-whisper.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\examples\\common-whisper.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/examples/common-whisper.cpp",
+  "output": "examples/CMakeFiles/common.dir/common-whisper.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_USE_CPU @CMakeFiles/common.dir/includes_CXX.rsp -g -o CMakeFiles\\common.dir\\grammar-parser.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\examples\\grammar-parser.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/examples/grammar-parser.cpp",
+  "output": "examples/CMakeFiles/common.dir/grammar-parser.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples/cli",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_USE_CPU @CMakeFiles/whisper-cli.dir/includes_CXX.rsp -g -o CMakeFiles\\whisper-cli.dir\\cli.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\examples\\cli\\cli.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/examples/cli/cli.cpp",
+  "output": "examples/cli/CMakeFiles/whisper-cli.dir/cli.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples/bench",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_USE_CPU @CMakeFiles/whisper-bench.dir/includes_CXX.rsp -g -o CMakeFiles\\whisper-bench.dir\\bench.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\examples\\bench\\bench.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/examples/bench/bench.cpp",
+  "output": "examples/bench/CMakeFiles/whisper-bench.dir/bench.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples/server",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_USE_CPU @CMakeFiles/whisper-server.dir/includes_CXX.rsp -g -o CMakeFiles\\whisper-server.dir\\server.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\examples\\server\\server.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/examples/server/server.cpp",
+  "output": "examples/server/CMakeFiles/whisper-server.dir/server.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples/quantize",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_USE_CPU @CMakeFiles/quantize.dir/includes_CXX.rsp -g -o CMakeFiles\\quantize.dir\\quantize.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\examples\\quantize\\quantize.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/examples/quantize/quantize.cpp",
+  "output": "examples/quantize/CMakeFiles/quantize.dir/quantize.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples/vad-speech-segments",
+  "command": "C:\\MinGW\\bin\\g++.exe -DGGML_USE_CPU @CMakeFiles/vad-speech-segments.dir/includes_CXX.rsp -g -o CMakeFiles\\vad-speech-segments.dir\\speech.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\examples\\vad-speech-segments\\speech.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/examples/vad-speech-segments/speech.cpp",
+  "output": "examples/vad-speech-segments/CMakeFiles/vad-speech-segments.dir/speech.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples/deprecation-warning",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\deprecation-warning.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\examples\\deprecation-warning\\deprecation-warning.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "output": "examples/deprecation-warning/CMakeFiles/main.dir/deprecation-warning.cpp.obj"
+},
+{
+  "directory": "E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples/deprecation-warning",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/bench.dir/includes_CXX.rsp -g -o CMakeFiles\\bench.dir\\deprecation-warning.cpp.obj -c E:\\College\\S6\\Lab\\NLP\\UAS\\2208107010004_TiaraAgustin_UAS_NLP\\app\\whisper.cpp\\examples\\deprecation-warning\\deprecation-warning.cpp",
+  "file": "E:/College/S6/Lab/NLP/UAS/2208107010004_TiaraAgustin_UAS_NLP/app/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "output": "examples/deprecation-warning/CMakeFiles/bench.dir/deprecation-warning.cpp.obj"
+}
+]

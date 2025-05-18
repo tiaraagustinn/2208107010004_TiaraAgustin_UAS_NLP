@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libwhisper.a CMakeFiles/whisper.dir/whisper.cpp.obj
+C:\MinGW\bin\ranlib.exe libwhisper.a

@@ -1,0 +1,19 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/cmake_install.cmake",
+		"E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/cmake_install.cmake",
+		"E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src/cmake_install.cmake",
+		"E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/ggml/src/ggml-cpu/cmake_install.cmake",
+		"E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/src/cmake_install.cmake",
+		"E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/tests/cmake_install.cmake",
+		"E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples/cmake_install.cmake",
+		"E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples/cli/cmake_install.cmake",
+		"E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples/bench/cmake_install.cmake",
+		"E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples/server/cmake_install.cmake",
+		"E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples/quantize/cmake_install.cmake",
+		"E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples/vad-speech-segments/cmake_install.cmake",
+		"E:/College/S6/2208107010004_TiaraAgustin_UAS_NLP/build/examples/deprecation-warning/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

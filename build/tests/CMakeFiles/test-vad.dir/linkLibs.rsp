@@ -1,0 +1,1 @@
+ ../examples/libcommon.a ../src/libwhisper.a ../ggml/src/ggml.a "../ggml/src/ggml-cpu.a" "../ggml/src/ggml-base.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

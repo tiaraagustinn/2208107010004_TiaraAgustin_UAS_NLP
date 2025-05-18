@@ -1,0 +1,3 @@
+"C:\Users\HP VICTUS\Documents\CMake\bin\cmake.exe" -E rm -f CMakeFiles\vad-speech-segments.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\vad-speech-segments.dir/objects.a @CMakeFiles\vad-speech-segments.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\vad-speech-segments.dir/objects.a -Wl,--no-whole-archive -o ..\..\bin\vad-speech-segments.exe -Wl,--out-implib,libvad-speech-segments.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\vad-speech-segments.dir\linkLibs.rsp
