@@ -27,11 +27,5 @@ voice_chatbot_project/
 ├── requirements.txt       # Daftar dependensi Python
 ```
 
-## 📚 Catatan
-- Semua file audio menggunakan format `.wav`.
-- Untuk menghasilkan fonem seperti `dəˈnɡan`, teks dari Gemini harus dikonversi ke fonetik.
-- Disarankan menggunakan model Whisper: `ggml-large-v3-turbo`.
-- Gunakan speaker: `wibowo` dari model Coqui v1.2.
-
-## 👨‍💻 Dibuat Untuk
-Proyek UAS mata kuliah *Pemrosesan Bahasa Alami* — Semester Genap 2024/2025.
+## 👨‍💻 Dibuat Oleh
+Tiara Agustin - 2208107010004
